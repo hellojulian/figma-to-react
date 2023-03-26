@@ -1,0 +1,18 @@
+.root {
+  width: 352px;
+  height: min-content;
+  place-content: space-around;
+  padding: 16px 0;
+  border-radius: 8px;
+  background-color: #000;
+}
+.clickMe {
+  color: #fff;
+  font-size: 20px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
